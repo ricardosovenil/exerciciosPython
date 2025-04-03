@@ -22,9 +22,9 @@ for i in range(0, qtdnumLidos):
         print('Valor informado não está dentro da faixa solicitada')
         
         
-print("Esse numero está {} vezes ".format(faixa1))
-print("Esse numero está {} vezes ".format(faixa2))
-print("Esse numero está {} vezes ".format(faixa3))
-print("Esse numero está {} vezes ".format(faixa4))
+print("Na faixa 1 tem {} números ".format(faixa1))
+print("Na faixa 2 tem {} números ".format(faixa2))
+print("Na faixa 3 tem {} números ".format(faixa3))
+print("Na faixa 4 tem {} números ".format(faixa4))
 
         
